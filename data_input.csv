@@ -6,6 +6,6 @@ Junior Senior,Travel_Frequently,Research & Development,S2,Life Sciences,4,Female
 Junior,Travel_Rarely,Research & Development,SMA,Medical,1,Male,LOW,1,Laboratory Technician,Married,No,No
 Junior Senior,Travel_Frequently,Research & Development,D3,Life Sciences,4,Male,HIGH,1,Laboratory Technician,Single,No,No
 Senior,Travel_Rarely,Research & Development,S1,Medical,3,Female,OTHER,1,Laboratory Technician,Married,Yes,No
-Junior Senior,Travel_Rarely,Research & Development,SMA,Life Sciences,4,Male,HIGH,1,Laboratory Technician,Divorced,No,No
-Junior Senior,Travel_Frequently,Research & Development,S1,Life Sciences,4,Male,LOW,3,Manufacturing Director,Single,No,No
-Junior Senior,Travel_Rarely,Research & Development,S1,Medical,3,Male,OTHER,2,Healthcare Representative,Married,No,No
+Junior,Travel_Rarely,Research & Development,S1,Life Sciences,3,Male,LOW,1,Laboratory Technician,Single,Yes,Yes
+Junior Senior,Travel_Rarely,Sales,S2,Life Sciences,3,Male,OTHER,1,Sales Representative,Single,No,Yes
+Junior Senior,Travel_Rarely,Research & Development,SMA,Medical,2,Male,OTHER,1,Research Scientist,Single,No,Yes
