@@ -1,4 +1,4 @@
-level,Age,BusinessTravel,Department,Education,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobLevel,JobRole,MaritalStatus,OverTime,ClassAttrition
+level,Age,BusinessTravel,Department,Education,Education1,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobLevel,JobRole,MaritalStatus,OverTime,ClassAttrition
 Senior,41,Travel_Rarely,Sales,D3,2,Life Sciences,2,Female,94,2,Sales Executive,Single,Yes,Yes
 Senior,49,Travel_Frequently,Research & Development,SMA,1,Life Sciences,3,Male,61,2,Research Scientist,Married,No,No
 Junior Senior,37,Travel_Rarely,Research & Development,D3,2,Other,4,Male,92,1,Laboratory Technician,Single,Yes,Yes
