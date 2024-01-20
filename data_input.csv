@@ -1,0 +1,10 @@
+level,BusinessTravel,Department,Education,EducationField,Gender,JobRole,MaritalStatus,OverTime,ClassAttrition
+Senior,Travel_Rarely,Sales,D3,Life Sciences,Female,Sales Executive,Single,Yes,
+Senior,Travel_Frequently,Research & Development,SMA,Life Sciences,Male,Research Scientist,Married,No,
+Junior Senior,Travel_Rarely,Research & Development,D3,Other,Male,Laboratory Technician,Single,Yes,
+Junior Senior,Travel_Frequently,Research & Development,S2,Life Sciences,Female,Research Scientist,Married,Yes,
+Junior,Travel_Rarely,Research & Development,SMA,Medical,Male,Laboratory Technician,Married,No,
+Junior Senior,Travel_Frequently,Research & Development,D3,Life Sciences,Male,Laboratory Technician,Single,No,
+Senior,Travel_Rarely,Research & Development,S1,Medical,Female,Laboratory Technician,Married,Yes,
+Junior Senior,Travel_Rarely,Research & Development,SMA,Life Sciences,Male,Laboratory Technician,Divorced,No,
+Junior Senior,Travel_Frequently,Research & Development,S1,Life Sciences,Male,Manufacturing Director,Single,No,
